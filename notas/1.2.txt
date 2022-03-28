@@ -1,0 +1,4 @@
+Java - JDK (Java Develpment Kit)
+
+java - ejecuta bytecode en la JVM (Java Virtual Machine)
+javac - compila archivos .java en archivos .class (bytecodes)

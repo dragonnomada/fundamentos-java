@@ -1,0 +1,19 @@
+1. Variables y Tipos de Datos
+2. Condicionales y Enumeraciones (if, switch)
+3. Iteradores, Arreglos y Listas (for, for-each)
+4. Ciclos condicionales (while, do-while)
+5. Clases y Objetos
+6. Diseños de Clases
+7. Agregación y Composición (relaciones entre objetos)
+8. Herencia (superclase y subclase)
+
+---
+
+9. Interfaces, servicios y transacciones
+10. Diseños de Componentes
+11. Interfaz requerida y interfaz ofrecida
+12. Conceptos generales de la Programación Orientada a Objetos
+
+---
+
+Prácticas y Proyectos

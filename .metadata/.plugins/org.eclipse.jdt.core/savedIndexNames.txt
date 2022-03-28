@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\santuario\cursos.2022\fundamentos-java\.metadata\.plugins\org.eclipse.jdt.core
+1654806808.index
+1865797976.index
+1167275426.index

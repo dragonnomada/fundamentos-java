@@ -1,0 +1,25 @@
+Definimos una clase llamada HolaMundo la cuál contiene
+un método estático que es público y se llama main,
+este método no devuelve nada (devuelve void) y recibe
+un arreglo de Objetos de tipo String (textos) y el
+arreglo es llamado "args".
+
+Dicho método main estático, es utilizado para marcar
+una función (el método) que recibe los parámetros desde
+la terminal (cuándo se ejecuta, dichos parámetros son el
+arreglo de textos String[] args).
+
+Y el cuerpo del método main es ejecutado. Por lo que
+si el método contiene instrucciones, estas serán ejecutadas.
+
+El objeto System nos permitirá interactuar con el sistema
+tanto en su entrada estándar (System.in) y su salida estándar (System.out)
+La salida estándar generalmente es la pantalla de la terminal dónde
+se ejecuta el programa (en windows el símbolo del sistema).
+
+La función println(...) toma un texto (String literal "...") y
+lo imprime en la salida estándar.
+
+El método público estático main se conoce como un "Punto de Ejecución"
+o un "Método de entrada" y todas las clases que tienen un punto
+de ejecución definido, se conocen como "Clases ejecutable".
