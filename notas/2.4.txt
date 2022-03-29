@@ -1,0 +1,9 @@
+1. Niveles acceso
+2. Constructores
+3. Herencia (superclase y subclase) (this y super)
+
+---
+
+4. Interfaces (diagramas de componentes, i. requerida y i. ofrecida)
+
+---

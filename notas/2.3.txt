@@ -1,0 +1,19 @@
+MaquinaDespachadora
+--------------------
+- a : int 
+- b : int
+- c : int
+- d : int
+- e : int
+- f : int
+- bloqueado: boolean
+- seleccionado: char
+--------------------
++ seleccionarA()
++ seleccionarB()
++ seleccionarC()
++ seleccionarD()
++ seleccionarE()
++ seleccionarF()
++ mostrarDisplay()
++ despachar()

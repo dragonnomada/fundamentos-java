@@ -1,0 +1,12 @@
+Objetos al momento de modelar/diseñar clases
+
+1. Establecer los atributos mínimos generales
+     - Identidad mínima (id)
+     - Estado mínimo (nombre, precio, existencias)
+2. Establecer los parámetros suficientes para inicializar TODOS los atributos
+     - Diseñar el contructor/constructores con los parámetros suficientes
+3. Los niveles de acceso
+     - TODOS los atributos deberían ser privados
+     - TODOS los métodos de escritura deberían estar protegidos
+     - TODOS los métodos de lectura deberían ser públicos
+          * Con excepción de los que se deseen proteger

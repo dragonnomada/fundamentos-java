@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+import java.util.ArrayList;
+
+...
+
+ArrayList<Integer> valores = new ArrayList<>();
+ArrayList<Doubles> pesos = new ArrayList<>();
+ArrayList<Persona> personas = new ArrayList<>();
+
+valores.add(5)
+
+pesos.add(90.8)
+
+personas.add(new Persona("Pepe"))
+Persona persona = personas.get(0)
+
