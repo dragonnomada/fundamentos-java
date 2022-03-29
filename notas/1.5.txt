@@ -1,0 +1,9 @@
+double estatura = scanner.nextDouble();
+double peso = scanner.nextDouble();
+scanner.nextLine();
+[1,73] [65,4][\n]
+
+double estatura = scanner.nextDouble(); scanner.nextLine();
+double peso = scanner.nextDouble(); scanner.nextLine();
+[1,73][\n]
+[65,4][\n]
