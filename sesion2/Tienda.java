@@ -2,7 +2,7 @@
 // protected - en la clase y en las subclases
 // public - en la clase, en las subclases y fuera del objeto
 
-public class Tienda {
+public class Tienda implements IDescribible {
 
     private int id; // 0
     protected String nombre; // null
