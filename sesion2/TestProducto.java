@@ -3,7 +3,7 @@ public class TestProducto {
     public static void main(String[] args) {
 
         // Priori
-        Producto cocaCola = new Producto();
+        Producto cocaCola = new Producto(123, "Coca Cola", 18.5, 20);
 
         // Posteriori
         //cocaCola.id = 123;
@@ -19,9 +19,9 @@ public class TestProducto {
 
         System.out.println(cocaCola.getId());
 
-        cocaCola.setNombre("Pepsi");
+        //cocaCola.setNombre("Pepsi");
 
-        cocaCola.setExistencias(40);
+        //cocaCola.setExistencias(40);
 
     }
 

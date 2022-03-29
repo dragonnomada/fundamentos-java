@@ -1,27 +1,36 @@
-public class Producto {
+public class Producto implements IProducto {
 
     private int id;
     private String nombre;
     private double precio;
     private int existencias;
 
+    public Producto(int id, String nombre, double precio, int existencias) {
+        this.id = id;
+        this.nombre = nombre;
+        this.precio = precio;
+        this.existencias = existencias;
+    }
+
+    @Override
     public int getId() {
         return id;
     }
 
-    public void setNombre(String nuevoNombre) {
-        nombre = nuevoNombre;
+    @Override
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setExistencias(int nuevasExistencias) {
-        if (nuevasExistencias > 0) {
-            existencias = nuevasExistencias;
-            System.out.println("Las existencias fueron actualizadas");
-        } else {
-            System.out.println("Las existencias tienen que ser positivas");
-        }
+    @Override
+    public double getPrecio() {
+        return precio;
     }
 
+    @Override
+    public int getExistencias() {
+        return existencias;
+    }
 }
 
 // Producto p1 = new Producto()
