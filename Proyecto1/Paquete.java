@@ -29,4 +29,15 @@ public class Paquete implements IPaquete {
         return String.format("[%.2f x %.2f x %.2f]", ancho, largo, alto);
     }
 
+    public double getAlto() {
+        return alto;
+    }
+
+    public double getAncho() {
+        return ancho;
+    }
+
+    public double getLargo() {
+        return largo;
+    }
 }
